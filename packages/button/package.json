@@ -2,9 +2,13 @@
   "name": "yyk-button",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
   "license": "MIT",
   "dependencies": {
     "lodash": "4"
+  },
+  "scripts": {
+    "del": "rimraf dist"
   }
 }
