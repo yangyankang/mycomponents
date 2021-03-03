@@ -1,6 +1,6 @@
 {
   "name": "yyk-link",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "description": "lg-link component",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
